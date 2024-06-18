@@ -1,6 +1,6 @@
 title: BotanyBase Docs
 description: BotanyBase Docs
-remote-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 
 url: https://botanybase.github.io/docs
 
