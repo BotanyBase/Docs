@@ -5,3 +5,6 @@ remote_theme: just-the-docs/just-the-docs
 url: https://botanybase.github.io/docs
 
 color_scheme: botanybase
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "https://botanybase.github.io/assets/favicon.png"
+favicon_ico: "https://botanybase.github.io/assets/favicon.ico"
