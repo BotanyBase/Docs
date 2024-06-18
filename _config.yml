@@ -4,5 +4,4 @@ remote_theme: just-the-docs/just-the-docs
 
 url: https://botanybase.github.io/docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+color_scheme: botanybase
