@@ -10,7 +10,7 @@ logo: "https://botanybase.github.io/assets/favicon.png"
 favicon_ico: "https://botanybase.github.io/assets/favicon.png"
 
 callouts:
-  warning:
+  Warning:
     title: Warning
     color: red
   new:
