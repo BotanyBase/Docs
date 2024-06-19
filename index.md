@@ -5,7 +5,7 @@ layout: home
 
 Welcome to BotanyBase Docs!
 
-<button type="button" name="button" class="btn" href="https://botanybase.github.io" style="display: block; margin: 0 auto;" >Back Home</button>
+[Back Home](https://botanybase.github.io){: .btn }
 
 Here's where all you need to know about contributing, using our database for your own use and so much more!
 
