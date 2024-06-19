@@ -64,3 +64,6 @@ May be seen as complicated to some, but we will go through step by step.
      Just additional info
    - `special_features` optional, depreciated:
      Ignore if not needed
+5. Now if you already haven't, create a Fork (this should be done before step 4. by Github automatically)
+6. Then create a Pull Request, and wait for our team to approve, do check on it in case we need you to make changes
+7. You're all set! Thanks!
