@@ -27,6 +27,11 @@ This method is regarded as the easiest due to its no-code simplicity.
 > Do Note!
 > 
 > Note that for `climates` you can only choose 1 of the 5
+>
+> Special merged climates like `desert` includes savanna climates too!
+> All special merged climates:
+> - `desert` > Desert and Savanna (includes and dry climates too)
+> - `alpine` > Alpine and Boreal (includes tundra and any other cold climates)
 > 
 
 3. Press submit and wait
